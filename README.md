@@ -1,4 +1,4 @@
-# 🎉 Chúc mừng GiangNNQ mua iPhone 17 Pro
+# 🎉 Chúc mừng người mua iPhone 17 Pro
 
 Một trang web chúc mừng được xây dựng bằng React + TypeScript + Vite, thiết kế đẹp mắt với giao diện gradient và hiệu ứng trang trí.
 
@@ -190,7 +190,7 @@ src/                   # Source code
 
 ## 👤 Tác giả
 
-Project được tạo để chúc mừng **GiangNNQ** mua iPhone 17 Pro 🎊
+Project được tạo để chúc mừng người mua iPhone 17 Pro 🎊
 
 ---
 
