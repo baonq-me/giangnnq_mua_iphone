@@ -1,0 +1,11 @@
+services:
+  iphone17pro:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: iphone17pro
+    ports:
+      - "8888:8888"
+    environment:
+      - PORT=8888
+    restart: unless-stopped
