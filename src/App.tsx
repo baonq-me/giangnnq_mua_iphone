@@ -94,7 +94,7 @@ function Certificate() {
               WebkitBackgroundClip: 'text',
               WebkitTextFillColor: 'transparent'
             }}>
-              GiangNNQ
+              Bạn
             </div>
             <p className="text-xl mb-6" style={{ color: '#6b7280' }}>
               Chúc mừng bạn đã mua thành công
@@ -132,7 +132,7 @@ function Certificate() {
           <div className="flex justify-between items-end mt-8 pt-6 border-t-2" style={{ borderColor: '#f9a8d4' }}>
             <div className="text-center flex-1">
               <div className="text-2xl font-cursive mb-1" style={{ color: '#6b7280', fontFamily: 'cursive' }}>
-                Nguyễn Quốc Bảo (baonq5)
+                Người gửi
               </div>
               <div className="text-sm" style={{ color: '#9ca3af' }}>
                 Presented by
